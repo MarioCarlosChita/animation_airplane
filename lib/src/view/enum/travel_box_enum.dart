@@ -1,0 +1,6 @@
+
+
+enum  TravelBoxEnum {
+  BOOKED ,
+  AVAILABLE
+}
